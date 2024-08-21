@@ -12,3 +12,4 @@ C:\Users\issap\OneDrive\Desktop\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dl
 C:\Users\issap\OneDrive\Desktop\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 C:\Users\issap\OneDrive\Desktop\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 C:\Users\issap\OneDrive\Desktop\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+c:\Users\issap\OneDrive\Desktop\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
