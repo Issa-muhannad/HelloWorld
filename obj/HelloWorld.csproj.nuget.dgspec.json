@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\issap\\Desktop\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\issap\\Desktop\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\issap\\Desktop\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Users\\issap\\Desktop\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\issap\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\issap\\Desktop\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\issap\\AppData\\Roaming\\NuGet\\NuGet.Config"

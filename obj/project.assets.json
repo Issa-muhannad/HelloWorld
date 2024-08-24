@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\issap\\Desktop\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\issap\\Desktop\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\issap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\issap\\OneDrive\\Desktop\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\issap\\Desktop\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\issap\\AppData\\Roaming\\NuGet\\NuGet.Config"
